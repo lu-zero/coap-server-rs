@@ -82,7 +82,7 @@ Desired but not implemented:
 - [Covertness/coap-rs](https://github.com/Covertness/coap-rs): original server
   I used but outgrew when I needed more robust features like generic Observe
   support and `/.well-known/core` filtering.
-- [ryankurte/rust-coap-client](https://raw.githubusercontent.com/ryankurte/rust-coap-client):
+- [ryankurte/rust-coap-client](https://github.com.com/ryankurte/rust-coap-client):
   inspired the creation of this crate based on the excellent generalization of
   client backends
 - [google/rust-async-coap](https://github.com/google/rust-async-coap)
